@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Praveen kumar
 
-Skills:  JS / HTML / CSS
+Skills:👩‍💻JS / 💻HTML / ⭐CSS
 
 - 🌱 I’m currently learning Web development 
 
