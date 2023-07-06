@@ -12,4 +12,4 @@ Skills:👩‍💻JS / 💻HTML / ⭐CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=praveenkumar-11&show_icons=true)  
 PROJECTS
-[<img src="https://github.com/praveenkumar-11/praveenkumar-11/blob/main/interactive-rating-component.png" alt="interactive-rating-component">](https://github.com/praveenkumar-11/praveenkumar-11/blob/main/interactive-rating-component.png)
+[<img src="https://github.com/praveenkumar-11/praveenkumar-11/blob/main/interactive-rating-component.png" alt="interactive-rating-component">](https://38a3eb65.interactive-rating-component-7z1.pages.dev/)
