@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Praveen kumar
 
-##Skills
-</>HTML
+## Skills
+<img src="https://github.com/praveenkumar-11/praveenkumar-11/blob/main/interactive-rating-component.png" alt="HTML5">HTML</img>
 #CSS
 {}Javascript
 
