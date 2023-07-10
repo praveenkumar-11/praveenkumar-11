@@ -2,11 +2,9 @@
 
 ## Skills
 <ul>
-  <li>
-    # </> HTML <br>
-    # CSS <br>
-    # {} Javascript
-  </li>
+  <li></>HTML</li>
+  <li>#CSS</li>
+  <li>{}Javascript</li>
 </ul>
 
 
