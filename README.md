@@ -2,12 +2,12 @@
 
 ## Skills
 # <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Javascript</li>
-</ul>
+#  <li>HTML</li>
+# <li>CSS</li>
+# <li>Javascript</li>
+# </ul>
 
-
+<br><br>
 - 🌱 I’m currently learning Web development
 
 
