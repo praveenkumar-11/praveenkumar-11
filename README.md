@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Praveen kumar
 
 ## Skills
-<ul>
-  <li># HTML</li>
-  <li># CSS</li>
-  <li># Javascript</li>
+# <ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
 </ul>
 
 
