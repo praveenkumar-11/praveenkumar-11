@@ -1,9 +1,14 @@
 ### Hi there 👋, I'm Praveen kumar
 
 ## Skills
-</>HTML <br>
-#CSS <br>
-{}Javascript
+<ul>
+  <li>
+    # </> HTML <br>
+    # CSS <br>
+    # {} Javascript
+  </li>
+</ul>
+
 
 - 🌱 I’m currently learning Web development
 
