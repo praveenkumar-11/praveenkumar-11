@@ -1,11 +1,11 @@
+<head> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" /> </head>
 ### Hi there 👋, I'm Praveen kumar
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/fontawesome.min.css" integrity="sha512-siarrzI1u3pCqFG2LEzi87McrBmq6Tp7juVsdmGY1Dr8Saw+ZBAzDzrGwX3vgxX1NkioYNCFOVC0GpDPss10zQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 #### Skills
 ##### <ul>
-#####  <li style="list-style-type:none"><i class="fa-brands fa-html5" style="color: #dedede;"></i>HTML</li>
-##### <li style="list-style-type:none">CSS</li>
-##### <li style="list-style-type:none">SCSS</li>
-##### <li style="list-style-type:none">Javascript</li>
+#####  <li><i class="fa-brands fa-html5"></i>HTML</li>
+##### <li>CSS</li>
+##### <li>SCSS</li>
+##### <li>Javascript</li>
 ##### </ul>
 
 <br><br>
