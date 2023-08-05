@@ -17,7 +17,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumar-11)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=praveenkumar-11&show_icons=true)  
-
-## Prjects
-
-![Tux, the Linux mascot](interactive-rating-component.png)
