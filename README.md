@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Praveen kumar
-#### Skills
+#### <p style="text-decoration:underline">Skills</p>
 ##### <ul>
-#####  <li>HTML</li>
+##### <li>HTML</li>
 ##### <li>CSS</li>
 ##### <li>SCSS</li>
 ##### <li>Javascript</li>
