@@ -4,6 +4,7 @@
 ###### <li>HTML</li>
 ###### <li>CSS</li>
 ###### <li>SCSS</li>
+###### <li>Bootstrap</li>
 ###### <li>Javascript</li>
 ##### </ul>
 
