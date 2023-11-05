@@ -5,6 +5,7 @@
 - SCSS
 - Bootstrap
 - Javascript
+- React
 
 <hr>
 
